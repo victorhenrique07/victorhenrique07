@@ -19,11 +19,8 @@
      <a href="mailto: henrictor@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
   
-## What am I studying?
+## About Me
   
-<p> Currently I'm working on a repository called Genius_API here in my perfil on Github.<br>
-    This API is being making in Python and Flask as language and framework, and MySQL as Database.<br>
-    I had the idea to recreate the genius.com site API to train my RestAPI skills.<br>
-    The idea of this project is: A simple crud, where the user can Register an artist <br>
-    and him's musics, delete all of it or just one by one (artist or music), update the informations like, <br>
-    name of artist, name of the music and the genre of the music.
+<p> I am a dedicated Software Developer specializing in C#, currently pursuing a degree in Systems Analysis and Development at Anhanguera University. My professional journey began as an intern at a dynamic startup, where I honed my skills in both front-end and back-end development.
+
+Through continuous learning and hard work, I have had the opportunity to lead a university project, taking charge of code development and organization. I am passionate about creating efficient, scalable software solutions and am always eager to tackle new challenges.
